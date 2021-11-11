@@ -1,0 +1,7 @@
+.col-2, .col-8, .col-12, .col-sm-12{
+    border:solid 1px black;
+}
+
+.three-div {
+    height: 200px;
+}
